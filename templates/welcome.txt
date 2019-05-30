@@ -1,0 +1,21 @@
+Hello [[Firstname]]
+
+Welcome to the family
+
+Your account access details are as follows:
+Username: [[username]]
+Password: [[password]]
+Login at our client zone : http://clientzone.domain.com/
+
+Order confirmation
+
+[[packageorder]]
+
+Kind Regards
+
+Iris White - System Automaton
+(e) support@domain.com
+
+(t) +27 (0) 11 123 4567
+(w) www.domain.com
+(a) Address Here

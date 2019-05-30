@@ -1,0 +1,11 @@
+Hi [[#[FIRSTNAME]#]]!
+
+Please find attached your invoice for your fibre connection.
+
+If you have any queries please email us on accounts@domain.com
+
+Our banking details can be found on your invoice. Please quote your account number as a reference when paying your account.
+
+Kind Regards
+
+Accounts

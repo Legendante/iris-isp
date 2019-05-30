@@ -1,0 +1,16 @@
+Congratulations [[#[FIRSTNAME]#]]!
+You've been activated
+
+Your fibre connection is up and running. Here are the quick easy steps to connect to your router. 
+•	Check the white sticker on your router
+•	On your chosen device that you're connecting to your wireless network with, search for a wireless that has the same name as the SSID
+•	The password you need to enter is the WPA Key
+•	You should now be able to connect to your wireless network.
+
+If you have any difficulties or questions, please email us on support@domain.com
+
+Attached to this email is your first invoice with the connection fee and the pro-rata first month subscription.
+
+Please enjoy your new high speed internet connection and the world it opens up for you. 
+
+
